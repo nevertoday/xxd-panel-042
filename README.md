@@ -40,9 +40,25 @@
 
 完整审美约束与拒绝项写在 Skill 和生产提示词中；它们保留原始提示词的审美动机，但不会把历史 3:4 画布变成隐藏默认值。 [SKILL.md](SKILL.md) · [production prompt](references/xxd-panel-042-prompt.en.md)
 
-## 样张 · 即将补充
+## 样张 · 来自 X
 
-`assets/examples/` 只会放入项目作者确认过的本风格成品；未确认前不使用其他风格作为占位。
+> [小小东（@xiaoxiaodong01）](https://x.com/xiaoxiaodong01/status/2091032515318521971) · 2026 年 8 月 22 日<br>
+> GPT2 × 拆解 × 分层 × 美学提示词 × VOL.042
+
+<table>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2091032515318521971"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 042 样张 1"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2091032515318521971"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 042 样张 2"></a></td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2091032515318521971"><img src="./assets/examples/sample-03.jpg" alt="XXD Panel 042 样张 3"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2091032515318521971"><img src="./assets/examples/sample-04.jpg" alt="XXD Panel 042 样张 4"></a></td>
+  </tr>
+</table>
+
+<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2091032515318521971">查看原推文与完整提示词 →</a></p>
+
+这些样张用于展示 042 的美学动机，不会把样张中的主体、构图、配色、文案或旧画幅变成生成参考或当前默认值。
 
 ## 四种可组合输出模式
 
