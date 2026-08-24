@@ -20,26 +20,6 @@
 
 원래 시점과 실제 구조만을 근거로 2–5개의 의미 있는 완전한 층을 참된 축을 따라 안정된 앵커 주변에 펼칩니다. 관람자가 머릿속에서 다시 조립할 만큼의 정체성을 보존합니다.
 
-## 이 Skill이 필요한 이유
-
-이 스타일은 원본에 의존하며 내용을 바꿔 끼우는 장식 프리셋이 아닙니다. 다음 변환 인과를 따릅니다:
-
-```text
-audit original viewpoint and structure → lock 3–7 defining features and 4–6 main colours → identify one stable base or anchor → separate only 2–5 meaningful complete layers along real axes → preserve shared centre and moderate spacing → render clear line plus translucent watercolour on ivory paper → add restrained structural annotations
-```
-
-무관한 사진으로 바꿔도 식별, 구성, 배치, 재료, 색, 여백과 문구가 실질적으로 달라지지 않는다면 이 Panel의 결과가 아닙니다.
-
-## 시각적 원칙
-
-- **원본 결속:** 실제 구조를 다시 조립할 수 있는 수채 연구도로 펼치기
-- **스타일 DNA:** 원래 시점 · 2–5 실제 층 · 안정된 앵커 · 투명 수채 · 편집 주석
-- **식별성:** 원본 고유 단서를 세 가지 이상 보존하며 무관한 사진이라면 구성도 실질적으로 달라져야 합니다.
-- **구도:** 하나의 주체 또는 분리할 수 없는 관계, 원본에 근거한 배치와 능동적 여백을 지킵니다.
-- **재료와 색:** 고정 템플릿이 아니라 사진에서 도출하고 프로젝트별 생성 규격을 적용합니다.
-
-미적 제약과 금지 항목은 [원본 프롬프트](references/042-source.md)에만 있으며 Skill과 런타임 어댑터는 이번 출력 변수만 처리합니다. [Skill](SKILL.md) · [영문 런타임 어댑터](references/xxd-panel-042-prompt.en.md)
-
 ## 예시 · X에서
 
 > [샤오샤오둥（@xiaoxiaodong01）](https://x.com/xiaoxiaodong01/status/2091032515318521971) · 2026년 8월 22일<br>
@@ -59,6 +39,26 @@ audit original viewpoint and structure → lock 3–7 defining features and 4–
 <p align="center"><a href="https://x.com/xiaoxiaodong01/status/2091032515318521971">원문 게시물과 전체 프롬프트 보기 →</a></p>
 
 이 예시는 042의 미학적 의도를 보여 줄 뿐이며, 예시의 주제, 구성, 색상, 문구, 이전 캔버스 비율은 생성 참고나 현재 기본값이 되지 않습니다.
+
+## 이 Skill이 필요한 이유
+
+이 스타일은 원본에 의존하며 내용을 바꿔 끼우는 장식 프리셋이 아닙니다. 다음 변환 인과를 따릅니다:
+
+```text
+audit original viewpoint and structure → lock 3–7 defining features and 4–6 main colours → identify one stable base or anchor → separate only 2–5 meaningful complete layers along real axes → preserve shared centre and moderate spacing → render clear line plus translucent watercolour on ivory paper → add restrained structural annotations
+```
+
+무관한 사진으로 바꿔도 식별, 구성, 배치, 재료, 색, 여백과 문구가 실질적으로 달라지지 않는다면 이 Panel의 결과가 아닙니다.
+
+## 시각적 원칙
+
+- **원본 결속:** 실제 구조를 다시 조립할 수 있는 수채 연구도로 펼치기
+- **스타일 DNA:** 원래 시점 · 2–5 실제 층 · 안정된 앵커 · 투명 수채 · 편집 주석
+- **식별성:** 원본 고유 단서를 세 가지 이상 보존하며 무관한 사진이라면 구성도 실질적으로 달라져야 합니다.
+- **구도:** 하나의 주체 또는 분리할 수 없는 관계, 원본에 근거한 배치와 능동적 여백을 지킵니다.
+- **재료와 색:** 고정 템플릿이 아니라 사진에서 도출하고 프로젝트별 생성 규격을 적용합니다.
+
+미적 제약과 금지 항목은 [원본 프롬프트](references/042-source.md)에만 있으며 Skill과 런타임 어댑터는 이번 출력 변수만 처리합니다. [Skill](SKILL.md) · [영문 런타임 어댑터](references/xxd-panel-042-prompt.en.md)
 
 ## 원본 프롬프트가 유일한 미적 기준입니다
 

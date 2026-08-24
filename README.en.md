@@ -20,26 +20,6 @@
 
 The original viewpoint and real structure are the only evidence. Two to five meaningful complete layers separate along true axes around one stable anchor, preserving enough identity for the viewer to mentally reassemble the subject.
 
-## Why this Skill exists
-
-The style is source-dependent, not a decorative preset. Its operative transformation is:
-
-```text
-audit original viewpoint and structure → lock 3–7 defining features and 4–6 main colours → identify one stable base or anchor → separate only 2–5 meaningful complete layers along real axes → preserve shared centre and moderate spacing → render clear line plus translucent watercolour on ivory paper → add restrained structural annotations
-```
-
-If an unrelated photograph could replace the source without materially changing recognition, construction, placement, material, colour, whitespace, and copy, the result does not belong to this Panel.
-
-## The visual contract
-
-- The source is the only evidence. Preserve identity, overall contour, proportion, original observation direction, symmetry/asymmetry, key component relation, defining detail, material colour, and scale cues.
-- Separate only two to five meaningful complete layers or components along real axes with moderate even spacing and one stable, detailed base or anchor that lets the viewer mentally reassemble the subject.
-- Buildings and objects may separate by roof, floor, shell, frame, base, module, or connector; spaces by depth layers. People, animals, and plants stay bodily complete and are never dissected or mechanised.
-- Use warm ivory watercolour paper, clear controlled line, translucent washes, paper tooth, fine brushwork, a few structural guides, and clean source-derived colour.
-- Keep professional editorial restraint and generous whitespace; avoid dramatic explosion, arbitrary fragments, technical UI, or engineering-manual density.
-
-Aesthetic constraints and rejection rules live only in the [original source brief](references/042-source.md); the Skill and runtime adapter handle delivery variables only. [Skill workflow](SKILL.md) · [English runtime adapter](references/xxd-panel-042-prompt.en.md)
-
 ## Samples · From X
 
 > [Xiaoxiaodong (@xiaoxiaodong01)](https://x.com/xiaoxiaodong01/status/2091032515318521971) · 22 August 2026<br>
@@ -59,6 +39,26 @@ Aesthetic constraints and rejection rules live only in the [original source brie
 <p align="center"><a href="https://x.com/xiaoxiaodong01/status/2091032515318521971">View the original post and full prompt →</a></p>
 
 These samples demonstrate the 042 aesthetic motive. Their subjects, composition, palette, copy, and earlier canvas ratio never become generation references or current defaults.
+
+## Why this Skill exists
+
+The style is source-dependent, not a decorative preset. Its operative transformation is:
+
+```text
+audit original viewpoint and structure → lock 3–7 defining features and 4–6 main colours → identify one stable base or anchor → separate only 2–5 meaningful complete layers along real axes → preserve shared centre and moderate spacing → render clear line plus translucent watercolour on ivory paper → add restrained structural annotations
+```
+
+If an unrelated photograph could replace the source without materially changing recognition, construction, placement, material, colour, whitespace, and copy, the result does not belong to this Panel.
+
+## The visual contract
+
+- The source is the only evidence. Preserve identity, overall contour, proportion, original observation direction, symmetry/asymmetry, key component relation, defining detail, material colour, and scale cues.
+- Separate only two to five meaningful complete layers or components along real axes with moderate even spacing and one stable, detailed base or anchor that lets the viewer mentally reassemble the subject.
+- Buildings and objects may separate by roof, floor, shell, frame, base, module, or connector; spaces by depth layers. People, animals, and plants stay bodily complete and are never dissected or mechanised.
+- Use warm ivory watercolour paper, clear controlled line, translucent washes, paper tooth, fine brushwork, a few structural guides, and clean source-derived colour.
+- Keep professional editorial restraint and generous whitespace; avoid dramatic explosion, arbitrary fragments, technical UI, or engineering-manual density.
+
+Aesthetic constraints and rejection rules live only in the [original source brief](references/042-source.md); the Skill and runtime adapter handle delivery variables only. [Skill workflow](SKILL.md) · [English runtime adapter](references/xxd-panel-042-prompt.en.md)
 
 ## The original brief is authoritative
 
