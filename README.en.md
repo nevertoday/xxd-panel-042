@@ -40,7 +40,18 @@ The original viewpoint and real structure are the only evidence. Two to five mea
 
 These samples demonstrate the 042 aesthetic motive. Their subjects, composition, palette, copy, and earlier canvas ratio never become generation references or current defaults.
 
-## Why this Skill exists
+<!-- xxd-panel-benefit:start -->
+## Quick fit check: is XXD Panel 042 right for you?
+
+| What you need to know | What this style gives you |
+|---|---|
+| **What you will get** | Let real structure unfold as a reassemblable watercolour study |
+| **Recognizable signature** | ORIGINAL VIEW · 2–5 TRUE LAYERS · STABLE ANCHOR · TRANSLUCENT WATERCOLOUR · EDITORIAL NOTE |
+| **How it respects your source** | Recognizable identity, relationships, structure, and supplied facts stay anchored. Styling reorganizes the visual language instead of replacing your content with an unrelated template. |
+| **Where you can use it** | Create top-bottom, left-right, design-only, and four-device wallpaper outputs in multiple ratios or exact sizes. Delivery changes; the Panel's style identity does not get diluted. |
+<!-- xxd-panel-benefit:end -->
+
+## How it turns your source into a distinctive result
 
 The style is source-dependent, not a decorative preset. Its operative transformation is:
 
@@ -50,7 +61,7 @@ audit original viewpoint and structure → lock 3–7 defining features and 4–
 
 If an unrelated photograph could replace the source without materially changing recognition, construction, placement, material, colour, whitespace, and copy, the result does not belong to this Panel.
 
-## The visual contract
+## What makes the finished style recognizable
 
 - The source is the only evidence. Preserve identity, overall contour, proportion, original observation direction, symmetry/asymmetry, key component relation, defining detail, material colour, and scale cues.
 - Separate only two to five meaningful complete layers or components along real axes with moderate even spacing and one stable, detailed base or anchor that lets the viewer mentally reassemble the subject.
