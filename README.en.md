@@ -14,16 +14,7 @@
 
 </div>
 
-<div>
-
-> ORIGINAL VIEW · 2–5 TRUE LAYERS · STABLE ANCHOR · TRANSLUCENT WATERCOLOUR · EDITORIAL NOTE
-
-The original viewpoint and real structure are the only evidence. Two to five meaningful complete layers separate along true axes around one stable anchor, preserving enough identity for the viewer to mentally reassemble the subject.
-
 ## Samples · From X
-
-> [Xiaoxiaodong (@xiaoxiaodong01)](https://x.com/xiaoxiaodong01/status/2091032515318521971) · 22 August 2026<br>
-> GPT2 × decomposition × layering × aesthetic prompt × VOL.042
 
 <table>
   <tr>
@@ -36,9 +27,18 @@ The original viewpoint and real structure are the only evidence. Two to five mea
   </tr>
 </table>
 
+> [Xiaoxiaodong (@xiaoxiaodong01)](https://x.com/xiaoxiaodong01/status/2091032515318521971) · 22 August 2026<br>
+> GPT2 × decomposition × layering × aesthetic prompt × VOL.042
+
 <p align="center"><a href="https://x.com/xiaoxiaodong01/status/2091032515318521971">View the original post and full prompt →</a></p>
 
 These samples demonstrate the 042 aesthetic motive. Their subjects, composition, palette, copy, and earlier canvas ratio never become generation references or current defaults.
+
+<div>
+
+> ORIGINAL VIEW · 2–5 TRUE LAYERS · STABLE ANCHOR · TRANSLUCENT WATERCOLOUR · EDITORIAL NOTE
+
+The original viewpoint and real structure are the only evidence. Two to five meaningful complete layers separate along true axes around one stable anchor, preserving enough identity for the viewer to mentally reassemble the subject.
 
 <!-- xxd-panel-benefit:start -->
 ## Quick fit check: is XXD Panel 042 right for you?
