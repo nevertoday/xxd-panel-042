@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 🦁 XXD Panel 042
+# 🦁 XXD Panel 042｜Deconstructed Watercolor Journal
 
 ### Let real structure unfold as a reassemblable watercolour study
 

@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 🦁 XXD Panel 042
+# 🦁 XXD Panel 042｜解构水彩志
 
 ### 让真实结构展开为一张可重新组装的水彩研究图
 

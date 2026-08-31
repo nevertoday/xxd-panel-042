@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 🦁 XXD Panel 042
+# 🦁 XXD Panel 042｜脱構築水彩手帳
 
 ### 実在構造を、再組立て可能な水彩研究図として展開する
 

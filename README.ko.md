@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 🦁 XXD Panel 042
+# 🦁 XXD Panel 042｜해체된 수채 저널
 
 ### 실제 구조를 다시 조립할 수 있는 수채 연구도로 펼치기
 
