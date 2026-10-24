@@ -1,0 +1,84 @@
+{
+  "skill_description": "XXD Panel 042｜Deconstructed Watercolor Journal: repaints the photo's subject from its original viewpoint as an isometric watercolour study on warm ivory paper, gently separating it into two to five real layers or parts (roof, floors, shell, base; foreground, middle, background) along its true axes around one stable, detailed base, so it can be reassembled in the mind. People, animals and plants stay whole, shown only through overlapping outlines and pose layers. Clean line work, translucent washes, light construction lines, and a short title with numbers and side notes. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-042 or asks for an exploded-view watercolour, architectural layer study or deconstructed isometric painting from a photo.",
+  "short_description": "解构水彩志：沿真实结构把照片主体分层展开，画成一张能在脑中重新组装的水彩研究图",
+  "zh-CN": {
+    "name": "解构水彩志",
+    "tagline": "沿着真实结构把照片主体分层展开，画成一张能重新组装的水彩研究图。",
+    "look": "主体按原图的视角和比例重绘，按它真实的结构克制地分成 2 到 5 层：建筑和器物沿屋顶、楼层、外壳、基座分开，风景按前景、中景、背景展开，层与层间距均匀，围着一个完整、细节最丰富的基座。人物、动物和植物保持完整，只用重叠轮廓和姿态层表现，不拆解。画法是温暖象牙白水彩纸上的清晰线稿、半透明水彩和少量结构辅助线，颜色取自照片，清澈克制。文字是一个短标题，加编号、结构标记和侧向小注释。",
+    "traits": ["原始视角", "分层展开", "稳定锚点", "透明水彩", "编辑注释"],
+    "good": [
+      "结构分明的建筑和器物：一座老房子、一座亭子、一台缝纫机、一盏台灯",
+      "有前后层次的空间：庭院、街道、室内一角、山谷",
+      "想做成研究型海报、建筑说明或知识类配图的照片"
+    ],
+    "poor": [
+      "没有清楚结构的对象：一团云、一片水面、一碗汤",
+      "以人物或动物为主、期待把身体拆开展示的需求，这套风格只做重叠层，不肢解",
+      "想要夸张爆炸图、科技 UI、机械零件感或工程说明书的效果"
+    ]
+  },
+  "en": {
+    "name": "Deconstructed Watercolor Journal",
+    "tagline": "Opens your photo's subject layer by layer along its real structure, painted as a watercolour study you could reassemble.",
+    "look": "The subject is repainted from the photo's own viewpoint and proportions, then gently separated into two to five layers that follow its real structure: buildings and objects part at the roof, floors, shell or base, landscapes open into foreground, middle and background, all evenly spaced around one complete, most-detailed base. People, animals and plants stay whole, shown only through overlapping outlines and pose layers, never taken apart. It is painted on warm ivory watercolour paper with clean line work, translucent washes and a few construction lines, in clear, restrained colours from the photo. Text is a short title with numbers, structural marks and small side notes.",
+    "traits": ["Original viewpoint", "Layered separation", "Stable base", "Transparent watercolour", "Editorial notes"],
+    "good": [
+      "Buildings and objects with clear structure: an old house, a pavilion, a sewing machine, a desk lamp",
+      "Spaces with depth: a courtyard, a street, a corner of a room, a valley",
+      "Photos for a research-style poster, an architectural explainer or an educational image"
+    ],
+    "poor": [
+      "Subjects without clear structure: a cloud, a stretch of water, a bowl of soup",
+      "Requests to take people or animals apart, since the style only overlaps layers and never dismembers",
+      "Requests for dramatic exploded views, tech UI, machine-part looks or engineering manuals"
+    ]
+  },
+  "ja": {
+    "name": "脱構築水彩手帳",
+    "tagline": "写真の主役を実際の構造に沿って層ごとに開き、組み立て直せる水彩の研究図に描きます。",
+    "look": "主役は元写真の視点と比率のまま描き直し、実際の構造に沿って二〜五層に控えめに分けます。建物や道具は屋根、階、外殻、土台で分かれ、風景は前景、中景、遠景に開き、層の間隔は均等で、いちばん細部の多い完全な土台を中心にまとまります。人物、動物、植物は形を保ったまま、重なる輪郭と姿勢の層だけで表し、分解はしません。温かいアイボリーの水彩紙に、すっきりした線、半透明の水彩、少しの補助線で描き、色は写真から取った澄んだ控えめな色です。文字は短いタイトルに番号、構造の記号、横向きの小さな注記を添えます。",
+    "traits": ["元の視点", "層の展開", "安定した土台", "透明水彩", "編集的な注記"],
+    "good": [
+      "構造のはっきりした建物や道具：古い家、あずまや、ミシン、電気スタンド",
+      "奥行きのある空間：中庭、通り、部屋の一角、谷",
+      "研究風のポスター、建築の解説、学びのための図にしたい写真"
+    ],
+    "poor": [
+      "はっきりした構造のないもの：ひとかたまりの雲、水面、一杯のスープ",
+      "人物や動物の体をばらして見せたい場合（このスタイルは層を重ねるだけで分解しません）",
+      "派手な分解図、テック系 UI、機械部品風、工学マニュアルのような仕上がりを求める場合"
+    ]
+  },
+  "ko": {
+    "name": "해체된 수채 저널",
+    "tagline": "사진의 주인공을 실제 구조를 따라 층층이 펼쳐, 다시 조립할 수 있는 수채 연구도로 그립니다.",
+    "look": "주인공은 원래 사진의 시점과 비율대로 다시 그리고, 실제 구조를 따라 두 층에서 다섯 층으로 절제 있게 나눕니다. 건물과 사물은 지붕, 층, 외피, 받침에서 갈라지고, 풍경은 전경, 중경, 원경으로 펼쳐지며, 층 간격은 고르고 가장 세부가 많은 온전한 받침을 중심으로 모입니다. 사람, 동물, 식물은 온전한 모습을 유지하고 겹친 윤곽과 자세의 층으로만 표현하며 해체하지 않습니다. 따뜻한 아이보리 수채지 위에 깔끔한 선, 반투명 수채, 약간의 보조선으로 그리고, 색은 사진에서 가져온 맑고 절제된 색입니다. 글자는 짧은 제목에 번호, 구조 표시, 옆으로 놓인 작은 메모를 곁들입니다.",
+    "traits": ["원래 시점", "층별 전개", "안정된 받침", "투명 수채", "편집 메모"],
+    "good": [
+      "구조가 분명한 건물과 사물: 오래된 집, 정자, 재봉틀, 스탠드 조명",
+      "앞뒤 깊이가 있는 공간: 안뜰, 거리, 방 한쪽, 골짜기",
+      "연구풍 포스터, 건축 설명, 학습용 이미지로 쓰고 싶은 사진"
+    ],
+    "poor": [
+      "뚜렷한 구조가 없는 대상: 구름 한 덩이, 수면, 국 한 그릇",
+      "사람이나 동물의 몸을 분해해 보여 주길 원하는 경우(이 스타일은 층을 겹칠 뿐 해체하지 않습니다)",
+      "과장된 분해도, 테크 UI, 기계 부품 느낌, 공학 매뉴얼 같은 결과를 원하는 경우"
+    ]
+  },
+  "ar": {
+    "name": "دفتر الألوان المائية المُفكَّكة",
+    "tagline": "يفتح موضوع صورتك طبقةً طبقة على امتداد بنيته الحقيقية، مرسوماً كدراسة مائية يمكن إعادة تجميعها.",
+    "look": "يُعاد رسم الموضوع من زاوية الصورة الأصلية وبنِسبها، ثم يُفصل بهدوء إلى طبقتين حتى خمس طبقات تتبع بنيته الحقيقية: المباني والأشياء تنفصل عند السقف أو الطوابق أو الغلاف أو القاعدة، والمناظر تنفتح إلى مقدمة ووسط وخلفية، بمسافات متساوية حول قاعدة واحدة كاملة هي الأغنى بالتفاصيل. يبقى الأشخاص والحيوانات والنباتات كاملين، ولا يظهرون إلا بخطوط متراكبة وطبقات للوضعية، دون أي تقطيع. الرسم على ورق ألوان مائية عاجي دافئ بخطوط نظيفة وطبقات مائية شفافة وبضعة خطوط إنشائية، بألوان صافية متحفظة من الصورة. النص عنوان قصير مع أرقام وعلامات بنيوية وملاحظات جانبية صغيرة.",
+    "traits": ["الزاوية الأصلية", "انفصال الطبقات", "قاعدة ثابتة", "ألوان مائية شفافة", "ملاحظات تحريرية"],
+    "good": [
+      "مبانٍ وأشياء واضحة البنية: بيت قديم، جوسق، ماكينة خياطة، مصباح مكتب",
+      "فضاءات فيها عمق: فناء، شارع، زاوية غرفة، وادٍ",
+      "صور لملصق بطابع بحثي أو شرح معماري أو صورة تعليمية"
+    ],
+    "poor": [
+      "موضوعات بلا بنية واضحة: سحابة، سطح ماء، طبق حساء",
+      "طلب تفكيك أجساد البشر أو الحيوانات، فالأسلوب يراكب الطبقات فقط ولا يقطّع",
+      "طلب مناظر تفجيرية مبالغ فيها أو واجهات تقنية أو مظهر قطع آلية أو كتيّبات هندسية"
+    ]
+  }
+}

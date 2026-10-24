@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-042
-description: "Create XXD Panel 042 raster artwork from one image or a directory batch while treating the bundled original style brief as the sole aesthetic authority. Supports one or more top-bottom, left-right, design-only, and four-device wallpaper outputs; multiple ratios or exact sizes; prompt-generated, user-exact, or text-free typography; and inline parameters. Use when the user invokes xxd-panel-042 or requests the exact Panel 042 style."
+description: "XXD Panel 042｜Deconstructed Watercolor Journal: repaints the photo's subject from its original viewpoint as an isometric watercolour study on warm ivory paper, gently separating it into two to five real layers or parts (roof, floors, shell, base; foreground, middle, background) along its true axes around one stable, detailed base, so it can be reassembled in the mind. People, animals and plants stay whole, shown only through overlapping outlines and pose layers. Clean line work, translucent washes, light construction lines, and a short title with numbers and side notes. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-042 or asks for an exploded-view watercolour, architectural layer study or deconstructed isometric painting from a photo."
 ---
 
 # XXD Panel 042
